@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h1 align="center">Hi, I'm Arthur</h1>
 <h3 align="center">a passionate computer science student and developer. I'm constantly exploring the realms of software development, seeking new challenges, and honing my skills. Let's connect, collaborate, and innovate together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurhbu&label=Profile%20views&color=0e75b6&style=flat" alt="arthurhbu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthurhbu" alt="arthurhbu" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java and Docker**
-
-- 📝 I regularly write articles on [https://www.developer-tech.com/](https://www.developer-tech.com/)
+- I’m currently learning **Python, Java and Docker**
 
 - 💬 Ask me about **Computer Architecture!**
 
