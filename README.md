@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Arthur</h1>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <h3 align="center">a passionate computer science student and developer. I'm constantly exploring the realms of software development, seeking new challenges, and honing my skills. Let's connect, collaborate, and innovate together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurhbu&label=Profile%20views&color=0e75b6&style=flat" alt="arthurhbu" /> </p>
@@ -9,7 +8,7 @@
 <ul>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
-          <i class="devicon-flask-original"></i>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </ul>
